@@ -22,6 +22,12 @@ We will release the code and dataset once the paper is accepted.
 ## 🔭 Overview
 <img src="assets/overview.png"/>
 
+## Acknowledgements
+
+Many thanks to these excellent works:
+[AMI-EV](https://bottle101.github.io/AMI-EV/),
+[DVS-Voltmeter](https://github.com/Lynn0306/DVS-Voltmeter).
+
 ## ✏️ Citation
 If you find our work useful, please consider citing:
 
